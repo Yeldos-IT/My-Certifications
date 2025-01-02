@@ -27,4 +27,4 @@ This repository contains a collection of my certifications from various online/o
 ### Layout Simulator, Emmet Plugin
 - **Platform:** Stepik (Ismail Useinov)  
 - **Credential URL:** [View Certificate](https://stepik.org/cert/2714424)  
-![Layout Simulator Certificate](certificates/Layoutsimulator,Emmetplugin-IsmailUseinov(Stepik).png)
+![Layout Simulator Certificate](https://raw.githubusercontent.com/Yeldos-IT/My-Certifications/main/Layoutsimulator%2CEmmetplugin-IsmailUseinov(Stepik).png))
