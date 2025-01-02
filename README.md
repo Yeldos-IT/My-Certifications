@@ -2,6 +2,8 @@
 
 This repository contains a collection of my certifications from various online/offline learning platforms. Each certification showcases my skills and knowledge in key areas of technology and data analysis.
 
+![Certifications Banner](https://via.placeholder.com/1200x300?text=My+Certifications)
+
 ## Certifications
 
 1. **Excel Basics for Data Analysis**  
@@ -23,3 +25,13 @@ This repository contains a collection of my certifications from various online/o
 5. **Layout Simulator, Emmet Plugin**  
    - **Platform:** Stepik (Ismail Useinov)  
    - **Credential URL:** [View Certificate](https://stepik.org/cert/2714424)
+
+---
+
+### Illustrations
+
+![Data Analysis Illustration](https://via.placeholder.com/600x400?text=Data+Analysis)
+
+### Animation
+
+Check out [this cool animation about data skills](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
