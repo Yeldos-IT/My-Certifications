@@ -28,10 +28,6 @@ This repository contains a collection of my certifications from various online/o
 
 ---
 
-### Illustrations
-
-![Data Analysis Illustration](https://via.placeholder.com/600x400?text=Data+Analysis)
-
 ### Animation
 
 Check out [this cool animation about data skills](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
