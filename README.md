@@ -2,8 +2,6 @@
 
 This repository contains a collection of my certifications from various online/offline learning platforms. Each certification showcases my skills and knowledge in key areas of technology and data analysis.
 
-![Certifications Banner](https://via.placeholder.com/1200x300?text=My+Certifications)
-
 ## Certifications
 
 1. **Excel Basics for Data Analysis**  
