@@ -7,7 +7,8 @@ This repository contains a collection of my certifications from various online/o
 ### Excel Basics for Data Analysis
 - **Platform:** Coursera (IBM)  
 - **Credential URL:** [View Certificate](https://coursera.org/share/8638a34074f193888acaaad056b73449)  
-![Excel Basics Certificate](https://coursera.org/share/8638a34074f193888acaaad056b73449)
+![Excel Basics Certificate](![Uploading CERTIFICATE_LANDING_PAGE~EL9LAJ6ZY9CT.jpeg…]()
+)
 
 ### Data Visualization and Dashboards with Excel and Cognos
 - **Platform:** Coursera (IBM)  
