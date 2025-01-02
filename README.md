@@ -21,5 +21,5 @@ This repository contains a collection of my certifications from various online/o
    - **Credential URL:** [View Certificate](https://coursera.org/share/f03267f6a83c204ffecc9a1eb6fc5711)
 
 5. **Layout Simulator, Emmet Plugin**  
-   - **Platform:** Stepik  
+   - **Platform:** Stepik (Ismail Useinov)  
    - **Credential URL:** [View Certificate](https://stepik.org/cert/2714424)
